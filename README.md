@@ -1,1 +1,2 @@
-# HeadStealSMP-AFK-Bot
+**HeadStealSMP AFK BOT**
+Made by PrimeGamerzz
